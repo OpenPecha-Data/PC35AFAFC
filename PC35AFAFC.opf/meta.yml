@@ -1,0 +1,117 @@
+id: PC35AFAFC
+initial_creation_type: input
+source_metadata:
+  title: Saddharmapuṇḍarīka
+  language: zh
+  volumes:
+    7db0828c06a84bc3a54b055fac62e7ed:
+      title: 1. Nidāna
+      base_file: 1. Nidāna.txt
+      work_id: W1966E288
+    32e61ad48b834891ae9a051974fb0528:
+      title: 10. Dharmabhāṇaka
+      base_file: 10. Dharmabhāṇaka.txt
+      work_id: WD973B66A
+    e7311b1b63aa41fa8f1d3b394a9c8ba6:
+      title: 11. Stūpasaṃdarśana
+      base_file: 11. Stūpasaṃdarśana.txt
+      work_id: W955FA584
+    88cd5b7fc5474ef7a2239aba8c51ae8b:
+      title: 12. Utsāha
+      base_file: 12. Utsāha.txt
+      work_id: WE3F1171E
+    1b783b535972473592c133cf4162b181:
+      title: 13. Sukhavihāra
+      base_file: 13. Sukhavihāra.txt
+      work_id: W589029CE
+    ff38558430b04d9c965dbafe96b17f18:
+      title: 14. Bodhisattvapṛthivīvirasamudgama
+      base_file: 14. Bodhisattvapṛthivīvirasamudgama.txt
+      work_id: W8C2BE042
+    ca08dfb2c3c84ea9a565408c67f97337:
+      title: 15. Tathāgatāyuṣpramāṇa
+      base_file: 15. Tathāgatāyuṣpramāṇa.txt
+      work_id: W661F2EF9
+    7b5e7d0de7f34b4381b96968ba875174:
+      title: 16. Puṇyaparyāya
+      base_file: 16. Puṇyaparyāya.txt
+      work_id: W44F165FD
+    feab9d4e50964eb4ab1b4215c1cce0cf:
+      title: 17. Anumodanāpuṇyanirdeśa
+      base_file: 17. Anumodanāpuṇyanirdeśa.txt
+      work_id: W278E3424
+    b07d85bdbedb464d9eac847592568527:
+      title: 18. Dharmabhāṇakānuśaṃsā
+      base_file: 18. Dharmabhāṇakānuśaṃsā.txt
+      work_id: W7114A62D
+    ca4dcc01b48b4e4d9b1e2b3e799985e2:
+      title: 19. Sadāparibhūta
+      base_file: 19. Sadāparibhūta.txt
+      work_id: W35E438E6
+    c44c9c516d404f7b848875150935be0d:
+      title: 2. Upāyakauśalya
+      base_file: 2. Upāyakauśalya.txt
+      work_id: WC64640FC
+    a945436c9c8f4c88b07d71ad0f88a46e:
+      title: 20. Tathāgataddharyabhisaṃskāra
+      base_file: 20. Tathāgataddharyabhisaṃskāra.txt
+      work_id: WAA43D3AA
+    207438050fe94db7b96bc466208f62e9:
+      title: 21. Dhāraṇī
+      base_file: 21. Dhāraṇī.txt
+      work_id: WA446EAC0
+    0e473e4b8dda4cc0aafd2c48c9dbc7c9:
+      title: 22. Bhaiṣajyarājapūrvayoga
+      base_file: 22. Bhaiṣajyarājapūrvayoga.txt
+      work_id: W0263EE35
+    1aca3e2eb5fa4322b9a14555844fa133:
+      title: 23. Gadgadasvara
+      base_file: 23. Gadgadasvara.txt
+      work_id: WA29FA195
+    da96e8823a004f1faddcf708f40402f0:
+      title: 24. Samantamukha
+      base_file: 24. Samantamukha.txt
+      work_id: W39FDCC73
+    686b290a413c465b880cbe58130b3ed3:
+      title: 25. Śubhavyūharājapūrvayoga
+      base_file: 25. Śubhavyūharājapūrvayoga.txt
+      work_id: W89800874
+    5a547b708a4f44f98381fc703b43b020:
+      title: 26. Samantabhadrotsāhana
+      base_file: 26. Samantabhadrotsāhana.txt
+      work_id: WFA49093C
+    344c36d310794aff82a89dbaced36dee:
+      title: 27. Anuparīndanā
+      base_file: 27. Anuparīndanā.txt
+      work_id: WA7646695
+    feb1bb47e09d4647b13e26a622401057:
+      title: 3. Aupamya
+      base_file: 3. Aupamya.txt
+      work_id: W0C8A0A69
+    b7ff12d58ca14aaeba6b350774a6f23b:
+      title: 4. Adhimukti
+      base_file: 4. Adhimukti.txt
+      work_id: WF09E866F
+    1f935ce15c5b4141be39ca2d10799db1:
+      title: 5. Oṣadhī
+      base_file: 5. Oṣadhī.txt
+      work_id: WAA004E32
+    7fa53a55eae04b3b9bdfd2ba91914dca:
+      title: 6. Vyākaraṇa
+      base_file: 6. Vyākaraṇa.txt
+      work_id: W4612FF40
+    ee60ecd5d3e440a8a5a247fb075e9465:
+      title: 7. Pūrvayoga
+      base_file: 7. Pūrvayoga.txt
+      work_id: WAFABA8BE
+    3187de440f5f4d5ababdb8a138b29d60:
+      title: 8. Pañcabhikṣuśatavyākaraṇa
+      base_file: 8. Pañcabhikṣuśatavyākaraṇa.txt
+      work_id: W6F455C06
+    6909ea8442c24440807ac352c0cc42c4:
+      title: 9. Ānandādivyākaraṇa
+      base_file: 9. Ānandādivyākaraṇa.txt
+      work_id: WEDBDFBB5
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:49:24.328790'
+last_modified_at: '2022-03-01T21:49:24.328798'
